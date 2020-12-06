@@ -19,6 +19,6 @@ Tạo trang web đầu tiên cho người mới bắt đầu
  
 ## Kết quả
 <video width="320" height="240" controls>
-  <source src="videos/demo_web.mp4" type="video/mp4">
+  <source src="../videos/demo_web_grab.mp4" type="video/mp4">
 </video>
 
