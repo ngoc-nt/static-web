@@ -93,9 +93,9 @@ nav ul li a{
     width: 20px;
     margin-top: 15px;
 }
-@media screen and (max-width:77px){
+@media screen and (max-width:770px){
     .banner-text h1{
-        font-size: 44px;
+        font-size: 30px;
     }
     .banner-btn a{
         display: block;
@@ -194,7 +194,7 @@ features-img img{
         flex-basis: 100%;
     }
     features-img img{
-        width: 100%;
+        width: auto;
     }
 }
 
@@ -329,6 +329,7 @@ hr{
     .testimonial-col{
         flex-basis: 100%;
     }
+
 }
 
 
@@ -339,6 +340,10 @@ hr{
 /*-----------footer--------*/
 
 #footer{
+    padding: 100px 0 20px;
+    background: #eeffee;
+}
+.footer_123{
     padding: 100px 0 20px;
     background: #eeffee;
 }
