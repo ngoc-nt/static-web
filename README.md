@@ -1,4 +1,5 @@
 # Thiết kế website trường Đại học Mỏ-Địa chất
+
 # 1621050825_NguyenTuanNgoc_DCCTPM61C
 
 ## Bài thực hành 
@@ -18,7 +19,6 @@ Tạo trang web đầu tiên cho người mới bắt đầu
 4. Nguồn tham khảo: W3SCHOOL, YOUTUBE và các tài liệu khác.
  
 ## Kết quả
-<video width="320" height="240" controls>
-  <source src="../videos/demo_web_grab.mp4" type="video/mp4">
-</video>
+![Kết quả](images/grab.jpg)
 
+[![Grab](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://youtu.be/qV1VqPLMdYU)
